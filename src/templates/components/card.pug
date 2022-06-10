@@ -1,0 +1,22 @@
+mixin card(classes,title, paragraph, price, time, creator)
+  div(class="card" class=classes)
+    figure.figure
+      img.item(src=upload_img_path+'image-equilibrium.jpg', alt="nft")
+      .view 
+        img(src=upload_img_path+'icon-view.svg')
+    .context
+      h1= title
+      p= paragraph
+      ul.sale
+        li
+          img(src=upload_img_path+"icon-ethereum.svg")
+          = price
+        li
+          img(src=upload_img_path+"icon-clock.svg")
+          = time
+    .creator
+      img(src=upload_img_path+"image-avatar.png")
+      p 
+        | Creation of 
+        a(href="#")= creator
+        

@@ -1,0 +1,437 @@
+.p-small-primary-blue, .card .creator p {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.p-small-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.p-small-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.p-small-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.p-small-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.p-small-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.h1-small-primary-blue {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.h1-small-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.h1-small-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.h1-small-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.h1-small-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.h1-small-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.sale-small-primary-blue {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.sale-small-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.sale-small-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.sale-small-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.sale-small-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.sale-small-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 300;
+  font-size: 300;
+}
+
+.p-medium-primary-blue, .card .context .sale li:last-child, .card .context p {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.p-medium-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.p-medium-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.p-medium-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.p-medium-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.p-medium-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.h1-medium-primary-blue {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.h1-medium-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.h1-medium-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.h1-medium-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.h1-medium-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.h1-medium-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.sale-medium-primary-blue {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.sale-medium-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.sale-medium-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.sale-medium-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.sale-medium-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.sale-medium-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 400;
+  font-size: 400;
+}
+
+.p-large-primary-blue {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.p-large-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.p-large-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.p-large-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.p-large-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.p-large-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.h1-large-primary-blue {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.h1-large-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.h1-large-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.h1-large-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.h1-large-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.h1-large-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.sale-large-primary-blue {
+  color: hsl(215deg, 51%, 70%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.sale-large-primary-cyan {
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.sale-large-bg-blue {
+  color: hsl(217deg, 54%, 11%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.sale-large-card-blue {
+  color: hsl(216deg, 50%, 16%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.sale-large-line-blue {
+  color: hsl(215deg, 32%, 27%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.sale-large-light {
+  color: hsl(0deg, 0%, 100%);
+  font-weight: 600;
+  font-size: 600;
+}
+
+.card {
+  background-color: hsl(216deg, 50%, 16%);
+  border-radius: 15px;
+  width: 20%;
+  padding: 20px;
+}
+@media (max-width: 1024px) {
+  .card {
+    width: 30%;
+  }
+}
+@media (max-width: 768px) {
+  .card {
+    width: 40%;
+  }
+}
+@media (max-width: 426px) {
+  .card {
+    width: 75%;
+  }
+}
+@media (max-width: 376px) {
+  .card {
+    width: 85%;
+  }
+}
+.card figure {
+  position: relative;
+}
+.card figure .item, .card figure .view {
+  border-radius: 10px;
+  width: 100%;
+}
+.card figure .view {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 255, 247, 0.5);
+  display: none;
+}
+.card figure .view img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+.card figure:hover {
+  cursor: pointer;
+}
+.card figure:hover .view {
+  display: block;
+}
+.card .context h1 {
+  color: hsl(0deg, 0%, 100%);
+  font-size: 25px;
+}
+.card .context h1:hover {
+  color: hsl(178deg, 100%, 50%);
+  cursor: pointer;
+}
+.card .context .sale {
+  padding: 0 0 15px 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  border-bottom: 1px solid hsl(215deg, 32%, 27%);
+}
+.card .context .sale li img {
+  margin-right: 10px;
+}
+.card .context .sale li:first-child {
+  font-size: 20px;
+  color: hsl(178deg, 100%, 50%);
+  font-weight: 600;
+}
+.card .creator {
+  margin-top: 15px;
+}
+.card .creator img {
+  width: 20%;
+}
+.card .creator p {
+  display: inline-block;
+}
+.card .creator a {
+  text-decoration: none;
+}
+.card .creator a:link, .card .creator a:visited {
+  color: hsl(0deg, 0%, 100%);
+}
+.card .creator a:hover {
+  color: hsl(178deg, 100%, 50%);
+}
+
+body {
+  background-color: hsl(217deg, 54%, 11%);
+}
+
+.attribution {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  font-size: 11px;
+  color: hsl(0deg, 0%, 100%);
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+  text-decoration: none;
+}

@@ -1,0 +1,43 @@
+@use 'sass:map';
+$font-weight: (
+  small: 300,
+  medium: 400,
+  large: 600
+);
+
+$font-size: (
+  p: 18px,
+  h1: 25px,
+  sale: 20px
+);
+
+// p-small-primary-blue
+
+@each $weight,$value in $font-weight{
+
+  @each $size,$val in $font-size{
+
+    @each $color,$var in $colors{
+      .#{$size}-#{$weight}-#{$color}
+      {
+        color: $var;
+        font-weight: $value;
+        font-size: $value;
+      }
+    }
+
+  }
+}
+// .text-primary-blue
+// @each $name,$var in $colors {
+//   .text-#{$name}{
+//     color: $var;
+//   }
+// };
+
+// @each $color,
+// $val in $colors {
+//   .text-#{$color} {
+//     color: $val !important;
+//   }
+// }

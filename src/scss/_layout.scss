@@ -1,0 +1,21 @@
+body{
+  background-color: map.get($colors,bg-blue);
+}
+
+.attribution { 
+//   position:absolute; modifies the element's width to fit its content, and that text-align: center; centers the text within the element block's width. So if you add a position: absolute; don't forget to increase the width of the element, or else the text-align: center; property will be useless.
+
+// The best way to solve this is to add a width: 100%; and a left: 0px; in the .text section.
+  position: absolute;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  font-size: 11px; 
+  color: map.get($colors, light);
+  text-align: center; 
+  a 
+  { 
+    color: hsl(228, 45%, 44%);
+    text-decoration: none; 
+  }
+}

@@ -1,0 +1,109 @@
+@use 'sass:map';
+
+.card{
+  background-color: map.get($colors, card-blue);
+  border-radius: 15px;
+  width: 20%;
+  padding: 20px;
+
+  @media (max-width: 1024px) {
+    width: 30%;
+  }
+  @media (max-width: 768px){
+    width: 40%;
+  }
+  @media (max-width: 426px){
+    width: 75%;
+  }
+  @media(max-width: 376px){
+    width: 85%;
+  }
+  figure{
+    position: relative;
+    
+    .item,.view{
+      border-radius: 10px;
+      width: 100%;
+      
+    }
+    .view{
+      position: absolute;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background-color: rgba(map.get($colors, primary-cyan),.5);
+      display: none;
+      img{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+      }
+    }
+    &:hover{
+      cursor: pointer;
+      .view{
+        display: block;
+      }
+    }
+  }
+  
+  .context{
+    
+    h1{
+      color: map.get($colors, light);
+      font-size: map.get($font-size, h1);
+      &:hover{
+        color: map.get($colors, primary-cyan);
+        cursor: pointer;
+      }
+    }
+    p{
+      @extend .p-medium-primary-blue;
+    }
+    .sale{
+      padding: 0 0 15px 0;
+      margin: 0;
+      display: flex;
+      justify-content: space-between;
+      list-style: none;
+      border-bottom: 1px solid map.get($colors, line-blue);
+
+      li{
+        img{
+          margin-right: 10px;
+        }
+        &:first-child{
+          font-size: map.get($font-size, sale);
+          color: map.get($colors, primary-cyan);
+          font-weight: map.get($font-weight, large);
+        }
+        &:last-child{
+          @extend .p-medium-primary-blue;
+        }
+      }
+    }
+  }
+
+  .creator{
+    margin-top: 15px;
+    img{
+      width: 20%;
+      
+    }
+    p{
+      @extend .p-small-primary-blue;
+      display: inline-block;
+    }
+    a{
+      text-decoration: none;
+      &:link, &:visited{
+        color: map.get($colors, light);
+      }
+      &:hover{
+        color: map-get($colors, primary-cyan);
+      }
+    }
+  }
+
+}
